@@ -17,7 +17,7 @@ s.platform     = :ios, '8.0'
 # s.osx.deployment_target = '10.7'
 s.requires_arc = true
 
-s.source_files = 'ZKBaseModel/ZKBaseModel/BaseModel/*'
+s.source_files = 'ZKBaseModel/BaseModel/*'
 # s.resources = 'Assets'
 
 # s.ios.exclude_files = 'Classes/osx'
